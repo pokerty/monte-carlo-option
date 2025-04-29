@@ -1,6 +1,6 @@
 # Monte Carlo Option Pricing Simulator
 
-This Streamlit application simulates the price of European Call or Put options using the Monte Carlo method based on the Geometric Brownian Motion model for the underlying asset price.
+This app simulates the price of European Call or Put options using the Monte Carlo method based on the Geometric Brownian Motion model for the underlying asset price.
 
 ## Features
 
